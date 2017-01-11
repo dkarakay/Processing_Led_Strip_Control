@@ -3,4 +3,5 @@ Processing Led Strip Control with Arduino
 
 #Screenshot:
 
-<img src="{{ site.url }}/images/led_strip_processing.png" alt="">
+![alt tag](/images/led_strip_processing.png)
+
